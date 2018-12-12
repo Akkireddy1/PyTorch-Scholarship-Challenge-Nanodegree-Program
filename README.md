@@ -1,6 +1,6 @@
-## 1. Deep Learning with PyTorch
+# 1. Deep Learning with PyTorch
 
-# Course Outline
+## Course Outline
 In this course, we'll learn the basics of deep neural networks and how to build various models using PyTorch. We'll get hands-on experience building state-of-the-art deep learning models.
 ```
 Introduction to Neural Networks
